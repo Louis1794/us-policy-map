@@ -2,12 +2,12 @@
 
 ## Submitted by
 <!-- Fill in before submission -->
-Name: (directory_id)
+Name: The Cool Squad
 
 ## Group Members
 <!-- Fill in before submission -->
-- Name (directory_id)
-- Name (directory_id)
+- Aminah (directory_id)
+- Louis Nguyen (120080678)
 
 ## App Description
 An interactive US map where users click any state to view the latest Reuters policy news headlines for that state, submit their own policy opinions, and read opinions submitted by others — all stored and retrieved from MongoDB.
@@ -21,7 +21,8 @@ An interactive US map where users click any state to view the latest Reuters pol
 
 ## Contact Email
 <!-- Fill in before submission -->
-your-email@terpmail.umd.edu
+aaminah@terpmail.umd.edu
+louisngu@terpmail.umd.edu
 
 ## Deployed App Link
 <!-- Add before submission -->

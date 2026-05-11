@@ -10,7 +10,7 @@ Name: The Cool Squad
 - Louis Nguyen (120080678)
 
 ## App Description
-An interactive US map where users click any state to view the latest Reuters policy news headlines for that state, submit their own policy opinions, and read opinions submitted by others — all stored and retrieved from MongoDB.
+Welcome!! Before you sits the amazing USA Policy and news Map! We bring an interactive US map where users click any state to view the latest Reuters policy news headlines for that state, submit their own policy opinions, and read opinions submitted by others — all stored and retrieved from MongoDB. Any questions just let us know in our contact emails below!!
 
 ## YouTube Video Link
 <!-- Add before submission -->
@@ -21,8 +21,8 @@ An interactive US map where users click any state to view the latest Reuters pol
 
 ## Contact Email
 <!-- Fill in before submission -->
-aaminah@terpmail.umd.edu
-\louisngu@terpmail.umd.edu
+aaminah@terpmail.umd.edu<br>
+louisngu@terpmail.umd.edu
 
 ## Deployed App Link
 <!-- Add before submission -->

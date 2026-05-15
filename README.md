@@ -2,30 +2,31 @@
 
 ## Submitted by
 <!-- Fill in before submission -->
-Name: (directory_id)
+Name: The Cool Squad
 
 ## Group Members
 <!-- Fill in before submission -->
-- Name (directory_id)
-- Name (directory_id)
+- Aminah Asghar-Ali (aasghara)
+- Louis Nguyen (louisngu)
 
 ## App Description
-An interactive US map where users click any state to view the latest Reuters policy news headlines for that state, submit their own policy opinions, and read opinions submitted by others — all stored and retrieved from MongoDB.
+Welcome!! Before you sits the amazing USA Policy and news Map! We bring an interactive US map where users click any state to view the latest news headlines for that state, submit their own policy opinions, and read opinions submitted by others — all stored and retrieved from MongoDB. Any questions just let us know in our contact emails below!!
 
 ## YouTube Video Link
 <!-- Add before submission -->
-[Demo Video](https://www.youtube.com/your-video-link)
+[Demo Video](https://youtu.be/U1I22tm-ETw)
 
 ## APIs
-- [Reuters API via RapidAPI](https://rapidapi.com/mahmudulhasandev/api/reuters-api) — Provides real-time Reuters news articles searched by state name and policy keywords.
+- [newsAPI](https://newsapi.org/) — Provides real-time news articles searched by state name.
 
 ## Contact Email
 <!-- Fill in before submission -->
-your-email@terpmail.umd.edu
+aasghara@terpmail.umd.edu<br>
+louisngu@terpmail.umd.edu
 
 ## Deployed App Link
 <!-- Add before submission -->
-[PolicyMap on Render](https://your-app.onrender.com)
+[PolicyMap on Render](https://us-map-6dm1.onrender.com)
 
 ## AI Use
 1. Claude Code
